@@ -1,0 +1,16 @@
+.description {
+    font-size: 18px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+strong, li {
+    font-family: monospace, sans-serif;
+}
+
+p {
+    font-family: 'cursive', sans-serif;
+}
